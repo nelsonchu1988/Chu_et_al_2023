@@ -1,6 +1,6 @@
 # Code Submission for Variational Autoencoder Analysis of Bone Marrow
 
-This repository contains the code for the variational autoencoder (VAE) analysis of bone marrow, including datasets and reproduction of VAE-related figures in the manuscript (i.e., figures 3c-3j, 4k-4o, 4q, and 5k-5o, 5q).
+This repository contains the code for the variational autoencoder (VAE) analysis of bone marrow, including datasets and reproduction of VAE-related figures in the manuscript (i.e., figures 3c-3j, 4k-4o, 4q, and 5k-5o, 5q). This code utilizes the output files from [BRAPH 2.0]([../../releases](https://github.com/braph-software/BRAPH-2)), an open-source MATLAB-based software that provides advanced capabilities for brain connectivity analysis.
 
 ## System Requirements
 
